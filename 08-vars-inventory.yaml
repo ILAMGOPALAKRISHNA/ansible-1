@@ -1,4 +1,4 @@
-- name: variables from prompt
+- name: variables from files
   hosts: localhost
   tasks:
   - name: print information
